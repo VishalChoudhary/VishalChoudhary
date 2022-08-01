@@ -1,42 +1,27 @@
-<img src="./profile-3d-contrib/PicsArt_10-12-09.03.26.jpg">
+<h1 align="center">Hi 👋, I'm Vishal Choudhary</h1>
+<h3 align="center">Machine learning Enthusiast</h3>
 
-### Hello World! I am Vishal Choudhary👋
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=VishalChoudhary&label=Profile%20views&color=0e75b6&style=flat" alt="VishalChoudhary" /> </p>
 
-![age](https://img.shields.io/badge/age-21-blue)
-![focus](https://img.shields.io/badge/focus-FullStack-brightgreen)
-![living](https://img.shields.io/badge/living-Agartala-3c9)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=VishalChoudhary" alt="VishalChoudhary" /></a> </p>
 
-<!--
-**VishalChoudhary/VishalChoudhary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on **MangaGIG**
 
-Here are some ideas to get you started:
--->
+- 🌱 I’m currently learning **Deep Learning**
 
+- 💬 Ask me about **Python, Machine Learning ,Deep Learning**
 
-- 🔭 I'm a Machine Learning enthusiast and a MERN stack Dev.
-- 🌱 I’m currently working on MangaGIG.
-- 📫 Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/rajeswar-sharma/)
-- 📝Checkout my [Resume](https://drive.google.com/file/d/1JIUaD0xRl20NF3Qkv12vR7SVeWZWGEfy/view?usp=sharing)
-- 💬 &nbsp; Ask me about **Machine Learning and Web development**
-- 📧 My official **vishalchoudhary848@gmail.com**
-- 📚 I Love to watch Documentaries
+- 📫 How to reach me **vishalchoudhary848@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1z1I0T5wthVGA_wiFWWhyXb8Y-vSC1cqv/view?usp=sharing](https://drive.google.com/file/d/1z1I0T5wthVGA_wiFWWhyXb8Y-vSC1cqv/view?usp=sharing)
+
+- ⚡ Fun fact **I am Good at Machine Learning**
 
 
-<p align="center">
-  <h2 align="center"><code>📊SOME STATS</code></h4>
-</p>
-
-<img  src="https://github-readme-stats.vercel.app/api?username=VishalChoudhary&show_icons=true&theme=dark&line_height=40&count_private=true" align="right">
-<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishalChoudhary&theme=dark">
 
 
-<!-- ![Vishal's github contribution graph](https://activity-graph.herokuapp.com/graph?username=VishalChoudhary&bg_color=000000&color=FFFFFF&line=FFFFFF&point=00FF00) -->
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=VishalChoudhary&show_icons=true&locale=en&layout=compact" alt="VishalChoudhary" /></p>
 
-![](./profile-3d-contrib/profile-season-animate.svg)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=VishalChoudhary&show_icons=true&locale=en" alt="VishalChoudhary" /></p>
 
-![VisitorCount](https://profile-counter.glitch.me/VishalChoudhary/count.svg)
-<p align="center">
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=VishalChoudhary)](https://github.com/VishalChoudhary/github-profile-trophy)
-
-</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=VishalChoudhary&" alt="VishalChoudhary" /></p>
