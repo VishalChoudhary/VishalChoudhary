@@ -11,8 +11,6 @@
 
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=VishalChoudhary.VishalChoudhary)
 
-View Stats in Github
-
 I have experience in many frameworks like:
 
 <h3 align="left">Languages and Tools:</h3>
