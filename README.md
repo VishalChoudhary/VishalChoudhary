@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vishal Choudhary</h1>
 <h3 align="center">Machine Learning and Backend Enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vishalchoudhary&label=Profile%20views&color=0e75b6&style=flat" alt="vishalchoudhary" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishalchoudhary" alt="vishalchoudhary" /></a> </p>
+<a href="mailto:vishalchoudhary848@gmail.com">![vishalchoudhary848@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/vishalchy01">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a> <a href="https://www.kaggle.com/vishalchy">![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)</a> <a href="https://auth.geeksforgeeks.org/user/shiver01/">![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)</a>
 
 - 🔭 I’m currently working on **MangaGiG**
 - 🌱 I’m currently learning **Deep Learning and API's**
