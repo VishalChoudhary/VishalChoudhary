@@ -2,7 +2,7 @@
 <h3 align="center">Machine Learning and Backend Enthusiast</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on MangaGiG<br>🌱 I’m currently learning Deep Learning and API's<br>🤔 I’m looking for help in API Integration<br>💬 Ask me Machine Learning and Deep Learning<br>📫 How to reach me vishalchoudhary848@gmail.com<br>📄 Know about my experiences https://drive.google.com/file/d/1ZcHfhcuvL_83tKQdvSh7tPUn8P8oVv9H/view?usp=sharing](https://drive.google.com/file/d/1jL6GE9oU1_nPlQgQ0IzPDnyqCvNBNuHT/view?usp=share_link)
+🔭 I’m currently working on MangaGiG<br>🌱 I’m currently learning Deep Learning and API's<br>🤔 I’m looking for help in API Integration<br>💬 Ask me Machine Learning and Deep Learning<br>📫 How to reach me vishalchoudhary848@gmail.com<br>📄 Know about my experiences [https://drive.google.com/file/d/1ZcHfhcuvL_83tKQdvSh7tPUn8P8oVv9H/view?usp=sharing](https://drive.google.com/file/d/1jL6GE9oU1_nPlQgQ0IzPDnyqCvNBNuHT/view?usp=share_link)](https://drive.google.com/file/d/1jL6GE9oU1_nPlQgQ0IzPDnyqCvNBNuHT/view?usp=share_link)
 
 
 ## 🌐 Socials:
