@@ -2,7 +2,7 @@
 <h3 align="center">Frontend Developer & Machine Learning Enthusiast</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on E-Commerce Web Application <br>🌱 I’m currently learning React & Node.js<br>🤔 I’m looking for help in UI/UX Designing<br>💬 Ask me Machine Learning and Deep Learning<br>📫 How to reach me vishalchoudhary848@gmail.com<br>📄 Know about my experiences https://rb.gy/jrml7
+🔭 I’m currently working on E-Commerce Web Application <br>🌱 I’m currently learning React & Node.js<br>🤔 I’m looking for help in UI/UX Designing<br>💬 Ask me Machine Learning and Deep Learning<br>📫 How to reach me vishalchoudhary848@gmail.com<br>📄 Know about my experiences [https://rb.gy/jrml7](https://rb.gy/zn5kd)
 
 
 ## 🌐 Socials:
