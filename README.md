@@ -9,7 +9,7 @@
 - 🧠 Strong foundation in **DSA**, **OOPS**, and **component-driven development**.
 - 💬 Ask me about **React.js**, **Redux**, **MERN Stack**, or **Machine Learning Basics**.
 - 📫 Reach me at: **vishalchoudhary848@gmail.com**
-- 📄 [View My Resume](https://tinyurl.com/zpwsp563)
+- 📄 [View My Resume](https://drive.google.com/file/d/1Q_wvtjYlhbXZ58ED-jF2_T9wD5d1NreO/view?usp=sharing)
 
 
 ## 🌐 Connect With Me
