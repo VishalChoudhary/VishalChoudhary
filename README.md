@@ -4,7 +4,7 @@
 ## 💫 About Me
 
 - 💻 Frontend-focused React Developer with **2+ years** of professional experience.
-- 🔭 Currently working at **Accenture** as an **Associate Software Engineer** on React & Redux-based applications.
+- 🔭 Recently worked at **Accenture** as an **Associate Software Engineer** on React & Redux-based applications.
 - 🌱 Currently upskilling in **Node.js**, **System Design**, and **Advanced React Patterns**.
 - 🧠 Strong foundation in **DSA**, **OOPS**, and **component-driven development**.
 - 💬 Ask me about **React.js**, **Redux**, **MERN Stack**, or **Machine Learning Basics**.
